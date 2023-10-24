@@ -3,7 +3,6 @@ package com.example.kt_less25
 import android.app.Application
 import com.google.firebase.database.FirebaseDatabase
 
-
 class MyApplication: Application() {
     lateinit var repo: ToDoRepository
 
